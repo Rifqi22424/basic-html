@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  background-color: #333333;
+}
+
+.navigationMenu li {
+  float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 16px;
+}
+
+li:hover {
+    background-color: #111111;
+    transition: ease-in-out;
+}
+

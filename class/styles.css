@@ -1,0 +1,28 @@
+.city {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+
+.main h2 {
+    text-align: center;
+}
+
+.note {
+    font-size: 120%;
+    color: red;
+}
+
+#exampleId {
+    background-color: rgb(0, 0, 110);
+    color: white;
+    width: 400px;
+    padding: 10px;
+}
